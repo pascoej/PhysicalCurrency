@@ -1,0 +1,7 @@
+name: PhysicalCurrency
+version: 1.0
+main: ca.murri.pascoej.PhysicalCurrency.PhysicalCurrency
+commands:
+ issue:
+  description: Converts whatever you are holding into currency
+  usage: /issue <name> <denomination> <color> <password> <message>
