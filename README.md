@@ -1,0 +1,3 @@
+PhysicalCurrency
+================
+Small private plugin
